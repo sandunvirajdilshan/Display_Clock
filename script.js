@@ -27,7 +27,7 @@ function showTime() {
   setTimeout(showTime, 1000);
 
   let bg;
-  const userName = "Sandun.";
+  const userName = "user-name.";
   const user = document.getElementById("User");
 
   bg = 'url(background.jpg)';
